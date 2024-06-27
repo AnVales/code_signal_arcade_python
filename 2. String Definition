@@ -1,0 +1,9 @@
+Which if the given string definitions are incorrect?
+
+s = 'abacaba'
+s = "abacaba"
+s = ''abacaba''X
+s = ""abacaba"" X
+s = '''abacaba'''
+s = """abacaba"""
+
