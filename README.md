@@ -39,6 +39,7 @@ bash
 Copiar
 Editar
 python nombre_del_problema.py
+
 📌 Requisitos
 Python 3.8 o superior.
 
